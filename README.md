@@ -1,4 +1,6 @@
-# Hemodialysis
+# website for hemodialysis department 
+
+## To run it in your local server you need to follow these steps :
 
 ## 1- open server.py
 ## 2- run python file server.py in your terminal
