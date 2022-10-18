@@ -1,4 +1,4 @@
-# website for hemodialysis department 
+# Website for hemodialysis department 
 
 ## To run it in your local server you need to follow these steps :
 
